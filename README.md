@@ -1,2 +1,2 @@
 # hello-word
-Remember my programming 
+Remember my programming and have fun
